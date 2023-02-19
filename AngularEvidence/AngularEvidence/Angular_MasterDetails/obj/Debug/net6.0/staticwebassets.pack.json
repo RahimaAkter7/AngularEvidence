@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Victor\\Desktop\\AngularEvidence\\Angular_MasterDetails\\wwwroot\\Images\\089a89aa-7142-4746-96b5-0fbdb04d6b00.png",
+      "PackagePath": "staticwebassets\\Images\\089a89aa-7142-4746-96b5-0fbdb04d6b00.png"
+    },
+    {
+      "Id": "C:\\Users\\Victor\\Desktop\\AngularEvidence\\Angular_MasterDetails\\wwwroot\\Images\\6f9957ac-fa6f-4e73-b297-5633b63fe3fe.jpg",
+      "PackagePath": "staticwebassets\\Images\\6f9957ac-fa6f-4e73-b297-5633b63fe3fe.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victor\\Desktop\\AngularEvidence\\Angular_MasterDetails\\wwwroot\\Images\\91eaa4d9-88f4-4b30-8eec-c6f1cab6726a.png",
+      "PackagePath": "staticwebassets\\Images\\91eaa4d9-88f4-4b30-8eec-c6f1cab6726a.png"
+    },
+    {
+      "Id": "C:\\Users\\Victor\\Desktop\\AngularEvidence\\Angular_MasterDetails\\wwwroot\\Images\\9c8a0e31-bce5-4e3f-9573-19b5bb997765.webp",
+      "PackagePath": "staticwebassets\\Images\\9c8a0e31-bce5-4e3f-9573-19b5bb997765.webp"
+    },
+    {
+      "Id": "C:\\Users\\Victor\\Desktop\\AngularEvidence\\Angular_MasterDetails\\wwwroot\\Images\\abe92bdc-ea82-4006-be60-26a13bdfa93a.png",
+      "PackagePath": "staticwebassets\\Images\\abe92bdc-ea82-4006-be60-26a13bdfa93a.png"
+    },
+    {
+      "Id": "C:\\Users\\Victor\\Desktop\\AngularEvidence\\Angular_MasterDetails\\wwwroot\\Images\\f200dc20-73bc-47ea-a88b-2a823a72a1a8.jpg",
+      "PackagePath": "staticwebassets\\Images\\f200dc20-73bc-47ea-a88b-2a823a72a1a8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Victor\\Desktop\\AngularEvidence\\Angular_MasterDetails\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Angular_MasterDetails.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Angular_MasterDetails.props",
+      "PackagePath": "build\\Angular_MasterDetails.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Angular_MasterDetails.props",
+      "PackagePath": "buildMultiTargeting\\Angular_MasterDetails.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Angular_MasterDetails.props",
+      "PackagePath": "buildTransitive\\Angular_MasterDetails.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
